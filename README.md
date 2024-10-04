@@ -9,8 +9,9 @@ FoodGo is a mobile application built using Flutter, designed to provide a seamle
 - *Smooth User Experience*: Leveraged Flutter for dynamic and responsive UI.
 
 ## Screens From App
-![2](https://github.com/user-attachments/assets/97d92308-6877-4642-9923-31d15e0e53fe)
 ![1](https://github.com/user-attachments/assets/48aeb94c-a73c-46be-8f98-b1f38a2a397e)
+![2](https://github.com/user-attachments/assets/97d92308-6877-4642-9923-31d15e0e53fe)
+
 
 
 ## Installation
